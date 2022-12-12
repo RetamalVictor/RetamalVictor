@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi
+I'm a MSc AI student. Here you'll find some of my work. Deep Learning, Reinforcement learning and Robotics are the three areas I'm focused right now.
 <!--
 **RetamalVictor/RetamalVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
