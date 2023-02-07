@@ -2,7 +2,7 @@
 I'm an MSc AI Student and Research Assistant @ VU Amsterdam. 
 Here you'll find some of my work. Currently, I am working with Multiagent system in real and simulated environments. For the real part, I'm using Crazyflies Nano drones to carry on research projects. Mainly Reinforcement Learning, Deep Learning and Robotics.
 
-This a list of the most cool and relevant projects I have around here:
+This a list of the coolest and most relevant projects I have around here:
 
 **Currently working**
 - [Multi-robot Path Finding With Graph Neural Networks](https://github.com/RetamalVictor/MAPF-GNN)
