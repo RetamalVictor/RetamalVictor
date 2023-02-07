@@ -16,6 +16,7 @@ This a list of the most cool and relevant projects I have around here:
 - [Guiding Simultaneous-Move Monte Carlo Tree Search via Opponent Models](https://github.com/RetamalVictor/A3C-Attention-for-Simultaneous-game)
 - [Variational Autoencoder and Adversarial Autoencoder (VAE & AAE)](https://github.com/RetamalVictor/uvadlc_practicals_2022/tree/main/VAE_and_AAE)
 - [CLIP and transfer learning](https://github.com/RetamalVictor/uvadlc_practicals_2022/tree/main/CLIP_and_transferLearning)
+- [NAO Social Robotics](https://github.com/RetamalVictor/NAO-Robot-Social-interations)
 - [SAT solver DPLL for Sudokus](https://github.com/RetamalVictor/SAT_Solver)
 - [Monte Carlo Tree Search MaxMin for TicTacToe](https://github.com/RetamalVictor/MCTS_TicTacToe)
 - [GA & NEAT agent for EVOMAN](https://github.com/RetamalVictor/Genetic-Algorithm-and-NEAT-generalist-agent-Evoman)
