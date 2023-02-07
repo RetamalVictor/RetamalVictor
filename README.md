@@ -13,7 +13,7 @@ This a list of the coolest and most relevant projects I have around here:
 
 **Finished**
 - **(Acepted for ICRA2023)** [Onboard Controller Design for Nano UAV Swarm in Operator-Guided Collective Behaviours](https://github.com/RetamalVictor/crazyflie-firmware-VU)
-- [Guiding Simultaneous-Move Monte Carlo Tree Search via Opponent Models](https://github.com/RetamalVictor/A3C-Attention-for-Simultaneous-game)
+- [Attention-Guided Simultaneous-Move Monte Carlo Tree Search (AG-SM-MCTS)](https://github.com/RetamalVictor/A3C-Attention-for-Simultaneous-game)
 - [Variational Autoencoder and Adversarial Autoencoder (VAE & AAE)](https://github.com/RetamalVictor/uvadlc_practicals_2022/tree/main/VAE_and_AAE)
 - [CLIP and transfer learning](https://github.com/RetamalVictor/uvadlc_practicals_2022/tree/main/CLIP_and_transferLearning)
 - [NAO Social Robotics](https://github.com/RetamalVictor/NAO-Robot-Social-interations)
