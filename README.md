@@ -9,6 +9,7 @@ This a list of the most cool and relevant projects I have around here:
 - [Robotic Car with Vision Guidance](https://github.com/RetamalVictor/robot-car)
 - Onboard Controller for Gradient Following and obstacle avoidance with collective behaviours (No public code yet, hopefully soon)
 - Learned collectived behaviours with Distance-only information (Again, public code soon)
+- Ultrasound Image Segmentation for Medical Images with Visual Transformers (Code available soon!)
 
 **Finished**
 - **(Acepted for ICRA2023)** [Onboard Controller Design for Nano UAV Swarm in Operator-Guided Collective Behaviours](https://github.com/RetamalVictor/crazyflie-firmware-VU)
