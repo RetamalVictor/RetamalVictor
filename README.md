@@ -7,7 +7,7 @@ This a list of the coolest and most relevant projects I have around here:
 **Currently working**
 - [Multi-robot Path Finding With Graph Neural Networks](https://github.com/RetamalVictor/MAPF-GNN)
 - [Robotic Car with Vision Guidance](https://github.com/RetamalVictor/robot-car)
-- Onboard Controller for Gradient Following and obstacle avoidance with collective behaviours (No public code yet, hopefully soon)
+- From Shadows to Light: A Swarm Robotics Approach with Onboard Control for Source Seeking in Constrained Environments (No public code yet, hopefully soon)
 - Learned collectived behaviours with Distance-only information (Again, public code soon)
 - Ultrasound Image Segmentation for Medical Images with Visual Transformers (Code available soon!)
 
