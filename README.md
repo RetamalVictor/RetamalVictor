@@ -10,8 +10,8 @@ This a list of the coolest and most relevant projects I have around here:
 - [Robotic Car with Vision Guidance](https://github.com/RetamalVictor/robot-car)
 
 **Finished**
-- **(Acepted for ICRA2023)** [Onboard Controller Design for Nano UAV Swarm in Operator-Guided Collective Behaviours](https://github.com/RetamalVictor/crazyflie-firmware-VU)
 - **(Submited to IROS2023)**[From Shadows to Light: A Swarm Robotics Approach with Onboard Control for Source Seeking in Constrained Environments](https://github.com/tugayalperen/IROS23gradfollower)
+- **(Acepted for ICRA2023)** [Onboard Controller Design for Nano UAV Swarm in Operator-Guided Collective Behaviours](https://github.com/RetamalVictor/crazyflie-firmware-VU)
 - [Multi-robot Path Finding With Graph Neural Networks](https://github.com/RetamalVictor/MAPF-GNN)
 - [Attention-Guided Simultaneous-Move Monte Carlo Tree Search (AG-SM-MCTS)](https://github.com/RetamalVictor/A3C-Attention-for-Simultaneous-game)
 - [Variational Autoencoder and Adversarial Autoencoder (VAE & AAE)](https://github.com/RetamalVictor/uvadlc_practicals_2022/tree/main/VAE_and_AAE)
