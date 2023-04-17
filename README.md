@@ -9,6 +9,7 @@ This a list of the coolest and most relevant projects I have around here:
 **Currently working**
 - Learned collectived behaviours with Distance-only information (Again, public code soon)
 - Ultrasound Image Segmentation for Medical Images with Visual Transformers (Code available soon!)
+- [Path planning for Fixed Wing UAV](https://github.com/RetamalVictor/rrt_path_plannig)
 - [Robotic Car with Vision Guidance](https://github.com/RetamalVictor/robot-car)
 
 **Finished**
