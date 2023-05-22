@@ -7,10 +7,11 @@ Check my [Projects blog](https://retamalvictor.github.io/blog/)
 This a list of the coolest and most relevant projects I have around here:
 
 **Currently working**
-- Learned collectived behaviours with Distance-only information (Again, public code soon)
+- [Learned collectived behaviours with Distance-only information](https://github.com/RetamalVictor/marl-range-flocking)
 - Ultrasound Image Segmentation for Medical Images with Visual Transformers (Code available soon!)
 - [Path planning for Fixed Wing UAV](https://github.com/RetamalVictor/rrt_path_plannig)
 - [Robotic Car with Vision Guidance](https://github.com/RetamalVictor/robot-car)
+- [Monocular Depth Estimation With ROS2 & MiDas](https://github.com/RetamalVictor/Monocular-Depth-Estimation)
 
 **Finished**
 - **(Submited to IROS2023)**[From Shadows to Light: A Swarm Robotics Approach with Onboard Control for Source Seeking in Constrained Environments](https://github.com/tugayalperen/IROS23gradfollower)
