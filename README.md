@@ -10,7 +10,6 @@ This a list of the coolest and most relevant projects I have around here:
 - [Learned collectived behaviours with Distance-only information](https://github.com/RetamalVictor/marl-range-flocking)
 - Ultrasound Image Segmentation for Medical Images with Visual Transformers (Code available soon!)
 - [Path planning for Fixed Wing UAV](https://github.com/RetamalVictor/rrt_path_plannig)
-- [Robotic Car with Vision Guidance](https://github.com/RetamalVictor/robot-car)
 - [Monocular Depth Estimation With ROS2 & MiDas](https://github.com/RetamalVictor/Monocular-Depth-Estimation)
 
 **Finished**
@@ -18,6 +17,7 @@ This a list of the coolest and most relevant projects I have around here:
 - **(Acepted for ICRA2023)** [Onboard Controller Design for Nano UAV Swarm in Operator-Guided Collective Behaviours](https://github.com/RetamalVictor/crazyflie-firmware-VU)
 - [Multi-robot Path Finding With Graph Neural Networks](https://github.com/RetamalVictor/MAPF-GNN)
 - [Attention-Guided Simultaneous-Move Monte Carlo Tree Search (AG-SM-MCTS)](https://github.com/RetamalVictor/A3C-Attention-for-Simultaneous-game)
+- [Robotic Car with Vision Guidance](https://github.com/RetamalVictor/robot-car)
 - [Variational Autoencoder and Adversarial Autoencoder (VAE & AAE)](https://github.com/RetamalVictor/uvadlc_practicals_2022/tree/main/VAE_and_AAE)
 - [CLIP and transfer learning](https://github.com/RetamalVictor/uvadlc_practicals_2022/tree/main/CLIP_and_transferLearning)
 - [NAO Social Robotics](https://github.com/RetamalVictor/NAO-Robot-Social-interations)
