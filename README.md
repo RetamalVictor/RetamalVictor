@@ -9,6 +9,7 @@ This a list of the coolest and most relevant projects I have around here:
 **Currently working**
 - [Learned collectived behaviours with Distance-only information](https://github.com/RetamalVictor/marl-range-flocking)
 - Ultrasound Image Segmentation for Medical Images with Visual Transformers (Code available soon!)
+- [Differential Robot maze navigation](https://github.com/RetamalVictor/robot-control)
 - [Path planning for Fixed Wing UAV](https://github.com/RetamalVictor/rrt_path_plannig)
 - [Monocular Depth Estimation With ROS2 & MiDas](https://github.com/RetamalVictor/Monocular-Depth-Estimation)
 
