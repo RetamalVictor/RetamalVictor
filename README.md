@@ -1,23 +1,22 @@
 ### Welcome to my GitHub!
-I'm an MSc AI Student and Research Assistant @ VU Amsterdam. 
-Here you'll find some of my work. Currently, I am working with Multiagent system in real and simulated environments. For the real part, I'm using Crazyflies Nano drones to carry on research projects. Mainly Collective behaviours, Reinforcement Learning, Deep Learning and Robotics.
+
+Currently working as a Robotics engineer for Multirobots Systems @ Technology Innovation Institute. Previously research Assistant @ VU Amsterdam. 
+
+- Designing Computer Vision Systems, Applying ML/DL to control problems, and more!
 
 Check my [Projects blog](https://retamalvictor.github.io/blog/) 
 
-This a list of the coolest and most relevant projects I have around here:
-
-**Currently working**
-- [Learned collectived behaviours with Distance-only information](https://github.com/RetamalVictor/marl-range-flocking)
-- Ultrasound Image Segmentation for Medical Images with Visual Transformers (Code available soon!)
+This is a list of the coolest and most relevant projects I have around here:
+**Finished**
+- **(Paper accepted SAUS 2024)** [Ultrasound Image Segmentation for Medical Images with Visual Transformers](https://github.com/RetamalVictor/CBIM-Medical-Image-Segmentation)
+- **(Accepted to RAL)**[From Shadows to Light: A Swarm Robotics Approach with Onboard Control for Source Seeking in Constrained Environments](https://github.com/tugayalperen/IROS23gradfollower)
+- **(Accepted for ICRA2023)** [Onboard Controller Design for Nano UAV Swarm in Operator-Guided Collective Behaviours](https://github.com/RetamalVictor/crazyflie-firmware-VU)
+- **(Workshop MaxPlan Insititute 2023)** [Learned collective behaviors with Distance-only information](https://github.com/RetamalVictor/marl-range-flocking)
+- [Multi-robot Path Finding With Graph Neural Networks](https://github.com/RetamalVictor/MAPF-GNN)
+- [Attention-Guided Simultaneous-Move Monte Carlo Tree Search (AG-SM-MCTS)](https://github.com/RetamalVictor/A3C-Attention-for-Simultaneous-game)
 - [Differential Robot maze navigation](https://github.com/RetamalVictor/robot-control)
 - [Path planning for Fixed Wing UAV](https://github.com/RetamalVictor/rrt_path_plannig)
 - [Monocular Depth Estimation With ROS2 & MiDas](https://github.com/RetamalVictor/Monocular-Depth-Estimation)
-
-**Finished**
-- **(Submited to IROS2023)**[From Shadows to Light: A Swarm Robotics Approach with Onboard Control for Source Seeking in Constrained Environments](https://github.com/tugayalperen/IROS23gradfollower)
-- **(Acepted for ICRA2023)** [Onboard Controller Design for Nano UAV Swarm in Operator-Guided Collective Behaviours](https://github.com/RetamalVictor/crazyflie-firmware-VU)
-- [Multi-robot Path Finding With Graph Neural Networks](https://github.com/RetamalVictor/MAPF-GNN)
-- [Attention-Guided Simultaneous-Move Monte Carlo Tree Search (AG-SM-MCTS)](https://github.com/RetamalVictor/A3C-Attention-for-Simultaneous-game)
 - [Robotic Car with Vision Guidance](https://github.com/RetamalVictor/robot-car)
 - [Variational Autoencoder and Adversarial Autoencoder (VAE & AAE)](https://github.com/RetamalVictor/uvadlc_practicals_2022/tree/main/VAE_and_AAE)
 - [CLIP and transfer learning](https://github.com/RetamalVictor/uvadlc_practicals_2022/tree/main/CLIP_and_transferLearning)
