@@ -1,6 +1,6 @@
 ### 🤖 Welcome to my GitHub! 🌟
 
-Currently working as a Robotics Engineer for Multirobots Systems @ Technology Innovation Institute. Previously Research Assistant @ VU Amsterdam. 🎓
+Currently working as a Robotics/ML Engineer for Multirobots Systems @ Technology Innovation Institute. Previously Research Assistant @ VU Amsterdam. 🎓
 
 - 🛠️ Designing Computer Vision Systems, Applying ML/DL to control problems, and more!
 
