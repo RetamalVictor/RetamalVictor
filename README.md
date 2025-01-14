@@ -11,7 +11,7 @@ Currently working as a Robotics/ML Engineer for Multirobots Systems @ Technology
 - **📄 (Accepted SAUS 2024)** [Ultrasound Image Segmentation for Medical Images with Visual Transformers](https://github.com/RetamalVictor/CBIM-Medical-Image-Segmentation)
 - **🌐 (Accepted to RAL)** [From Shadows to Light: A Swarm Robotics Approach with Onboard Control for Source Seeking in Constrained Environments](https://github.com/tugayalperen/IROS23gradfollower)
 - **🚁 (Accepted for ICRA2023)** [Onboard Controller Design for Nano UAV Swarm in Operator-Guided Collective Behaviours](https://github.com/RetamalVictor/crazyflie-firmware-VU)
-- **👥 (Workshop MaxPlan Insititute 2023)** [Learned collective behaviors with Distance-only information](https://github.com/RetamalVictor/marl-range-flocking)
+- **👥 (Workshop MaxPlank Insititute 2023)** [Learned collective behaviors with Distance-only information](https://github.com/RetamalVictor/marl-range-flocking)
 - 🤖 [Multi-robot Path Finding With Graph Neural Networks](https://github.com/RetamalVictor/MAPF-GNN)
 - 🎮 [Attention-Guided Simultaneous-Move Monte Carlo Tree Search (AG-SM-MCTS)](https://github.com/RetamalVictor/A3C-Attention-for-Simultaneous-game)
 - 🏁 [Differential Robot Maze Navigation](https://github.com/RetamalVictor/robot-control)
