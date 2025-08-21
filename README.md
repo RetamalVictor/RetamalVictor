@@ -1,7 +1,7 @@
 ### Victor Retamal 
 ML & Robotics Engineer 🤖
 
-Research in Multi-Agent Systems, Machine Learning and Swarm Robotics.
+Research in Multi-Agent Systems, Machine Learning and Deep Learning.
 
 [Technical Blog](https://retamalvictor.github.io/blog/) | [LinkedIn](https://www.linkedin.com/in/victor-retamal/)
 
