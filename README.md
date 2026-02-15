@@ -62,6 +62,6 @@ I like building things that move, think, or ideally both.
 
 #### Background
 
-MSc AI @ VU Amsterdam / UvA (Cum Laude) — thesis on multi-agent RL for continuous control under partial observability.
+MSc AI @ VU Amsterdam / UvA — thesis on multi-agent RL for continuous control under partial observability.
 
 Before that, BSc in Medicine — turns out I liked building things more than fixing people.
