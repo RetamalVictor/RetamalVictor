@@ -1,20 +1,22 @@
-### Hey, I'm Victor
+### Victor Retamal
 
-ML & Robotics Engineer working on autonomous systems, multi-agent coordination, and everything in between.
+Currently teaching machines to think and move. I design intelligent systems that learn from the world and act in it.
 
-Currently at [Technology Innovation Institute](https://www.tii.ae/) building multi-agent LLM orchestration platforms and UAV control systems. Previously did research on swarm robotics and MARL at VU Amsterdam.
-
-I like building things that move, think, or ideally both.
-
-[Website](https://victor-retamal.com) | [Blog](https://victor-retamal.com/blog) | [LinkedIn](https://www.linkedin.com/in/victor-retamal/)
+[victor-retamal.com](https://victor-retamal.com)
 
 ---
 
-#### What I'm working on
+#### Projects
 
-- **Multi-agent systems** — from LLM orchestration to UAV swarms
-- **Embodied AI** — perception, control, and decision-making for robots
-- **Edge deployment** — getting models to run fast on constrained hardware
+**[MAPF-GNN](https://github.com/RetamalVictor/MAPF-GNN)** — Decentralized multi-robot path planning with Graph Neural Networks.
+
+**[BitTorch](https://github.com/RetamalVictor/BitTorch)** — 1.58-bit ternary neural networks with custom CUDA kernels.
+
+**[TinyLM-Lab](https://github.com/RetamalVictor/TinyLM-Lab)** — Transformer framework from scratch. LLaMA/GPT, RoPE, GQA, KV-cache.
+
+**[PX4-State-Sharing-Demo](https://github.com/RetamalVictor/PX4-State-Sharing-Demo)** — Multi-UAV formation control via peer-to-peer state sharing.
+
+**[Monocular-Depth-Estimation](https://github.com/RetamalVictor/Monocular-Depth-Estimation)** — Real-time monocular depth with MiDaS + ROS2.
 
 ---
 
@@ -22,46 +24,10 @@ I like building things that move, think, or ideally both.
 
 | Venue | Paper |
 |-------|-------|
-| **RAL 2023** | [From Shadows to Light: Swarm Robotics for Dynamic Source Seeking](https://github.com/tugayalperen/IROS23gradfollower) |
-| **ICRA 2023** | [Onboard Controller Design for Nano UAV Swarm](https://github.com/RetamalVictor/crazyflie-firmware-VU) |
-| **SAUS 2024** | [Cardiac Segmentation with Visual Transformers](https://github.com/RetamalVictor/CBIM-Medical-Image-Segmentation) |
+| **IEEE RAL 2023** | [From Shadows to Light: Swarm Robotics for Dynamic Source Seeking](https://github.com/tugayalperen/IROS23gradfollower) |
+| **IEEE ICRA 2023** | [Onboard Controller Design for Nano UAV Swarm](https://github.com/RetamalVictor/crazyflie-firmware-VU) |
+| **IEEE SAUS 2024** | [Cardiac Segmentation with Visual Transformers](https://github.com/RetamalVictor/CBIM-Medical-Image-Segmentation) |
 
 ---
 
-#### Selected Projects
-
-**[BitTorch](https://github.com/RetamalVictor/BitTorch)** — 1.58-bit ternary neural networks with custom CUDA kernels. Because sometimes less is more.
-
-**[TinyLM-Lab](https://github.com/RetamalVictor/TinyLM-Lab)** — Research framework for compact language models. LLaMA/GPT-style architectures, custom CUDA kernels, KV-cache optimization.
-
-**[PX4-State-Sharing-Demo](https://github.com/RetamalVictor/PX4-State-Sharing-Demo)** — Multi-UAV formation control demo using the PX4 state sharing module.
-
-**[Monocular-Depth-Estimation](https://github.com/RetamalVictor/Monocular-Depth-Estimation)** — Depth prediction integrated with ROS2 for robotics applications.
-
-**[MAPF-GNN](https://github.com/RetamalVictor/MAPF-GNN)** — Decentralized multi-robot path planning using Graph Neural Networks with local observations and message passing.
-
-**[MARL Range Flocking](https://github.com/RetamalVictor/marl-range-flocking)** — Multi-agent RL for flocking with range-only interactions. Presented at Max Planck Institute workshop.
-
----
-
-#### Languages & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logoColor=white)
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RetamalVictor&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RetamalVictor&layout=compact&theme=default&hide_border=true&langs_count=8" />
-</p>
-
----
-
-#### Background
-
-MSc AI @ VU Amsterdam / UvA — thesis on multi-agent RL for continuous control under partial observability.
-
-Before that, BSc in Medicine — turns out I liked building things more than fixing people.
+MSc AI @ VU Amsterdam / UvA | BSc Medicine @ Universidad de Extremadura
